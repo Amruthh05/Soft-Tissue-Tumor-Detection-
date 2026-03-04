@@ -1,7 +1,7 @@
 # 🧠 Soft Tissue Tumor Detection using GM-UNet & EfficientNet  
 A Flask-based machine learning application for automated soft tissue tumor segmentation and classification from MRI images.
 
----
+----
 
 ## 🚀 Project Overview
 This project performs **soft tissue tumor detection** in two stages:
