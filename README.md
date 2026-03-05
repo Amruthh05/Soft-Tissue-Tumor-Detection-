@@ -114,11 +114,11 @@ Computer Science Engineering
 Contact: amruths101@gmail.com
 
 
-GitHub: https://github.com/AdarshaAdi5379
+GitHub:   https://github.com/AdarshaAdi5379
 
 
 
-GitHub: https://github.com/Amruthh05
+GitHub:   https://github.com/Amruthh05
 
 
 ⭐ If you found this useful
